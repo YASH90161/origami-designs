@@ -1,0 +1,36 @@
+h1{
+    color:bisque;
+    padding:50;
+    margin:50px
+    
+}
+.header *{
+    border:solid;
+
+}
+
+.header{
+    background-color:lightblue;
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+p,h2{
+    text-align: center;
+}
+.footer{
+    display: flex;
+    justify-content:flex-end;
+}
+body{
+    background-color: #A2E899;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
